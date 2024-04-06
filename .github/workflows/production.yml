@@ -47,6 +47,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: jcas1/is601-spring2024-hw8:lastest
+          tags: jcas121/is601-852-homework8:lastest
 
           # Add other relevant build parameters here
